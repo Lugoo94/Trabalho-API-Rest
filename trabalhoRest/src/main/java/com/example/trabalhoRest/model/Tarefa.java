@@ -1,4 +1,4 @@
-package com.example.demorest.model;
+package com.example.trabalhoRest.model;
 
 import java.time.LocalDate;
 import java.util.Objects;
